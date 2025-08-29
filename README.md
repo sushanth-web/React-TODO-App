@@ -25,6 +25,3 @@ A clean and user-friendly **React ToDo application** designed to help you effici
 - Tailwind CSS for styling
 - localStorage API for persistence
 
-## License
-
-This project is licensed under the MIT License.

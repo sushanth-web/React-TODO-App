@@ -2,6 +2,8 @@
 
 A clean and user-friendly **React ToDo application** designed to help you efficiently manage your daily tasks. Built with React Hooks and Context API for seamless state management, this app offers an intuitive interface to add, edit, complete, and delete tasks.
 
+live deployement : https://reactjsxtodoapplication.netlify.app/
+
 ## Features
 
 - Add new todos quickly through a simple input form.
